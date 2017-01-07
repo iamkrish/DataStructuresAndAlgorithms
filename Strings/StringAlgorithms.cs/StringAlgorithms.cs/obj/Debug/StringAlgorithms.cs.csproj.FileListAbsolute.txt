@@ -1,0 +1,6 @@
+C:\Code\Strings\StringAlgorithms.cs\StringAlgorithms.cs\bin\Debug\StringAlgorithms.cs.exe.config
+C:\Code\Strings\StringAlgorithms.cs\StringAlgorithms.cs\bin\Debug\StringAlgorithms.cs.exe
+C:\Code\Strings\StringAlgorithms.cs\StringAlgorithms.cs\bin\Debug\StringAlgorithms.cs.pdb
+C:\Code\Strings\StringAlgorithms.cs\StringAlgorithms.cs\obj\Debug\StringAlgorithms.cs.csprojResolveAssemblyReference.cache
+C:\Code\Strings\StringAlgorithms.cs\StringAlgorithms.cs\obj\Debug\StringAlgorithms.cs.exe
+C:\Code\Strings\StringAlgorithms.cs\StringAlgorithms.cs\obj\Debug\StringAlgorithms.cs.pdb
